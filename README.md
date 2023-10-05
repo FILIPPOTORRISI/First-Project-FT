@@ -1,4 +1,6 @@
 # First-Project-FT
+The objective of this project was to reproduce the findind of the paper "COVID-19 Cases and Deaths in Southeast Asia Clustering using K-Means Algorithm" of "Juniar Hutagalung 2021", and the expand its scoupe,
+to more regions and a larger time framework.
 We decided to take the WHO database for all countries and their respective sanitary data with respect to covid-19
 We implemented a K-means Clustering Data Mining method and obtained data into clusters. This process was implemented using Python, with the data utilized being country statistics, area of recorded laboratory-confirmed cases of COVID-19, and April 2020 deaths from the World Health Organization (WHO). The resulting clusters were classified as high (1), medium (2), and low (0).
 
